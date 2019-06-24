@@ -11,25 +11,19 @@ mistakes while porting it.
 Like the original this program is in the public domain
 2019 Ingo Berg
 
-//---------------------------------------------------------------------------------------------
- Original Copyright Notice from "specrend.c":
+## Original Copyright Notice from "specrend.c":
 
-            Colour Rendering of Spectra
+## Colour Rendering of Spectra by John Walker (http://www.fourmilab.ch/)
+*Last updated: March 9, 2003*
 
-                   by John Walker
+This program is in the public domain.
+For complete information about the techniques employed in
+this program, see the World-Wide Web document:
 
-              http://www.fourmilab.ch/
+ http://www.fourmilab.ch/documents/specrend/
 
-             Last updated: March 9, 2003
-
-       This program is in the public domain.
-  For complete information about the techniques employed in
-  this program, see the World-Wide Web document:
-
-         http://www.fourmilab.ch/documents/specrend/
-
-  The xyz_to_rgb() function, which was wrong in the original
-  version of this program, was corrected by:
+The xyz_to_rgb() function, which was wrong in the original
+version of this program, was corrected by:
 
         Andrew J. S. Hamilton 21 May 1999
         Andrew.Hamilton@Colorado.EDU
