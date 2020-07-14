@@ -5,7 +5,6 @@ This is a C# port of the C code to be found on John Walker's webpage titled [Col
 Please do not bother the original author with questions regarding the C# version. 
 
 I did not do any original research on the topic. I did not intent to modify any logic. I cannot guarantee that i did not make mistakes while porting it. Like the original this program is in the public domain  
-*Ingo Berg*
 
 The following is the original Copyright message from specrend.c (slightly reformatted)
 
